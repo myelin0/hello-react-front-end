@@ -53,6 +53,10 @@ $ http://localhost:3001/
 ```
 $ npx eslint .
 ```
+## Back-End
+
+You can access the back-end of this application via [this link](https://github.com/myelin0/hello-react-back-end).
+
   ## Author 
   
 👤 **Emirjeta Veisllari**
