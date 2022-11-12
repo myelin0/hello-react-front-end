@@ -5,7 +5,6 @@ import { getGreetings } from './greetingSlice';
 const RandomGreeting = () => {
   const dispatch = useDispatch();
   const randomGreeting = useSelector((state) => state.randomGreeting);
-  console.log(randomGreeting);
 
   useEffect(() => {
     dispatch(getGreetings());
